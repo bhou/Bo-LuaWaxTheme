@@ -1,5 +1,6 @@
 Bo-LuaWaxTheme
 ==============
+**NOTE: this project is unstable, the api might change frequently**
 
 LuaWaxTheme is a lib to customize iOS application's look and feal. 
 This project is used in Bo-AntibesBus project to support multiple themes.
